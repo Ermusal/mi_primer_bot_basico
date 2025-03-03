@@ -1,0 +1,26 @@
+# clonar git
+
+# crear venv
+```bash
+    python -m venc bot_venv
+```
+
+# activar venv
+
+## windows (cmd) "Window: Unknown word.
+
+```bash 
+    bot_venv\Scripts\activate
+```
+## Linux
+
+```bash
+    source bot_venv/bin/activate
+```
+
+# instalar dep 
+
+# Run poryect
+
+
+
