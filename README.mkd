@@ -1,4 +1,9 @@
 # clonar git
+https://github.com/Ermusal/mi_primer_bot_basico.git
+
+# crear env
+
+name = env
 
 # crear venv
 ```bash
@@ -18,9 +23,12 @@
     source bot_venv/bin/activate
 ```
 
-# instalar dep 
+# instalar dependencias
+```bash
+pip install -r requirements.txt
+```
 
 # Run poryect
-
+    fasapi dev main.py
 
 
